@@ -1,0 +1,19 @@
+/* ----------------- Image fields ----------------- */
+.node .field-type-image {
+  float: right; /* LTR */
+  margin: 0.5em 0 1em 1em; /* LTR */
+}
+.node .field-type-image img {
+  display: block;
+  padding: 0 0 10px 0;
+}
+.node .field-type-image.field-label-above {
+  margin-top: 0;
+}
+.node .field-type-image .field-label {
+  margin-bottom: 0.5em;
+}
+.node .field-type-image.field-label-inline .field-label {
+  margin-bottom: 0;
+  line-height: 1;
+}

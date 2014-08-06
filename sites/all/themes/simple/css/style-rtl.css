@@ -1,0 +1,5 @@
+/* ----------------- Image fields ----------------- */
+.node .field-type-image {
+  float: left;
+  margin: 0.5em 1em 1em 0;
+}
